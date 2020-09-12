@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "8-o-attendence",
+    "slug": "snack-92581891-3029-4dbd-9a5e-6ccaba35d46c",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.testuser.attendenceof8obytsa"
+    },
+    "android": {
+      "package": "com.testuser.attendenceof8obytsa"
+    }
+  }
+}
